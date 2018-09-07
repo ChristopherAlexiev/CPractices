@@ -1,0 +1,14 @@
+﻿  test.c
+c:\users\chris\programming stuff\cpractices\test\test\test.c(6): error C2061: syntax error: identifier 'llnode'
+c:\users\chris\programming stuff\cpractices\test\test\test.c(7): error C2059: syntax error: '}'
+c:\users\chris\programming stuff\cpractices\test\test\test.c(15): error C2027: use of undefined type 'llnode'
+  c:\users\chris\programming stuff\cpractices\test\test\test.c(4): note: see declaration of 'llnode'
+c:\users\chris\programming stuff\cpractices\test\test\test.c(16): error C2037: left of 'val' specifies undefined struct/union 'llnode'
+c:\users\chris\programming stuff\cpractices\test\test\test.c(20): error C2037: left of 'nextNode' specifies undefined struct/union 'llnode'
+c:\users\chris\programming stuff\cpractices\test\test\test.c(20): warning C4047: 'function': 'llnode **' differs in levels of indirection from 'int'
+c:\users\chris\programming stuff\cpractices\test\test\test.c(20): warning C4024: 'add': different types for formal and actual parameter 1
+c:\users\chris\programming stuff\cpractices\test\test\test.c(20): error C2198: 'add': too few arguments for call
+c:\users\chris\programming stuff\cpractices\test\test\test.c(28): error C2037: left of 'val' specifies undefined struct/union 'llnode'
+c:\users\chris\programming stuff\cpractices\test\test\test.c(28): error C2198: 'printf': too few arguments for call
+c:\users\chris\programming stuff\cpractices\test\test\test.c(29): error C2037: left of 'nextNode' specifies undefined struct/union 'llnode'
+c:\users\chris\programming stuff\cpractices\test\test\test.c(29): error C2198: 'printList': too few arguments for call

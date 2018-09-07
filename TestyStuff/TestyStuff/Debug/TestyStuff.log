@@ -1,0 +1,8 @@
+﻿  TestyStuff.c
+c:\users\chris\programming stuff\cpractices\testystuff\testystuff\testystuff.c(8): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\chris\programming stuff\cpractices\testystuff\testystuff\testystuff.c(20): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\chris\programming stuff\cpractices\testystuff\testystuff\testystuff.c(20): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\chris\programming stuff\cpractices\testystuff\testystuff\testystuff.c(20): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\chris\programming stuff\cpractices\testystuff\testystuff\testystuff.c(20): note: this argument is used as a buffer size
+c:\users\chris\programming stuff\cpractices\testystuff\testystuff\testystuff.c(11): warning C4716: 'mallocy': must return a value
+  TestyStuff.vcxproj -> C:\Users\chris\Programming Stuff\CPractices\TestyStuff\Debug\TestyStuff.exe

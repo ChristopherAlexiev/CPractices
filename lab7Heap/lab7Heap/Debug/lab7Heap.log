@@ -1,0 +1,5 @@
+﻿  lab7Heap.c
+c:\users\chris\programming stuff\cpractices\lab7heap\lab7heap\lab7heap.c(34): warning C4013: 'siftUp' undefined; assuming extern returning int
+c:\users\chris\programming stuff\cpractices\lab7heap\lab7heap\lab7heap.c(81): warning C4013: 'siftDown' undefined; assuming extern returning int
+c:\users\chris\programming stuff\cpractices\lab7heap\lab7heap\lab7heap.c(183): warning C4018: '<': signed/unsigned mismatch
+  lab7Heap.vcxproj -> C:\Users\chris\Programming Stuff\CPractices\lab7Heap\Debug\lab7Heap.exe

@@ -1,0 +1,12 @@
+﻿  Lab4Stuffs.c
+c:\users\chris\programming stuff\cpractices\lab4stuffs\lab4stuffs\lab4stuffs.c(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\programming stuff\cpractices\lab4stuffs\lab4stuffs\lab4stuffs.c(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\programming stuff\cpractices\lab4stuffs\lab4stuffs\lab4stuffs.c(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\programming stuff\cpractices\lab4stuffs\lab4stuffs\lab4stuffs.c(163): warning C4013: 'preorderHelper' undefined; assuming extern returning int
+c:\users\chris\programming stuff\cpractices\lab4stuffs\lab4stuffs\lab4stuffs.c(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\programming stuff\cpractices\lab4stuffs\lab4stuffs\lab4stuffs.c(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\programming stuff\cpractices\lab4stuffs\lab4stuffs\lab4stuffs.c(189): warning C4013: 'postorderHelper' undefined; assuming extern returning int
+c:\users\chris\programming stuff\cpractices\lab4stuffs\lab4stuffs\lab4stuffs.c(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\programming stuff\cpractices\lab4stuffs\lab4stuffs\lab4stuffs.c(199): warning C4018: '<': signed/unsigned mismatch
+c:\users\chris\programming stuff\cpractices\lab4stuffs\lab4stuffs\lab4stuffs.c(212): warning C4018: '<': signed/unsigned mismatch
+  Lab4Stuffs.vcxproj -> C:\Users\chris\Programming Stuff\CPractices\Lab4Stuffs\Debug\Lab4Stuffs.exe
